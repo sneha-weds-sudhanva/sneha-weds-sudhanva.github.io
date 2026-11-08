@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Wedding Times//Sneha & Sudhanva//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:sangeet-2026@the-wedding-times
+DTSTAMP:20260929T063000Z
+DTSTART:20261125T123000Z
+DTEND:20261125T163000Z
+SUMMARY:Sangeet · Sneha & Sudhanva
+DESCRIPTION:6:00 PM\nColour code: Beige & cream
+LOCATION:Sree Santhana Gopala Krishna Temple\, Oottupura\, Muthukulangara\, Eroor Road\, Tripunithura\, Ernakulam\, Kerala
+URL:https://sudhanva-sneha.com
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Sangeet · Sneha & Sudhanva is tomorrow
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wedding-2026@the-wedding-times
+DTSTAMP:20260929T063000Z
+DTSTART:20261126T040100Z
+DTEND:20261126T070100Z
+SUMMARY:Wedding · Sneha & Sudhanva
+DESCRIPTION:9:31 AM\nMuhurtham · Dhanur Lagnam
+LOCATION:Sree Santhana Gopala Krishna Temple\, Oottupura\, Muthukulangara\, Eroor Road\, Tripunithura\, Ernakulam\, Kerala
+URL:https://sudhanva-sneha.com
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Wedding · Sneha & Sudhanva is tomorrow
+END:VALARM
+END:VEVENT
+END:VCALENDAR
